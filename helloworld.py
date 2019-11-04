@@ -276,7 +276,7 @@ def executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey):
         res += '\n├ Type : Selfbot Hello World'
         res += '\n├ Version : 3.0.8'
         res += '\n├ Library : linepy (Python)'
-        res += '\n├ Creator : Zero Cool'
+        res += '\n├ Creator : Rezky'
         res += '\n╰───「 Hello World 」'
         line.sendMessage(to, res)
     elif cmd == 'status':
